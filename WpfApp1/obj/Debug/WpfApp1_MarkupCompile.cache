@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\ProjectGit\NEW\ProjectGit\WpfApp1\App.xaml
-1219584333
+4-1555463857
 
-51579654133
+101835952139
 13-1310406943
-MainWindow.xaml;
+MainWindow.xaml;Resources\Colors\ColorBrush.xaml;UI\DialogViews\Login\LoginView.xaml;UserControls\WindowStateControl.xaml;
 
 False
 

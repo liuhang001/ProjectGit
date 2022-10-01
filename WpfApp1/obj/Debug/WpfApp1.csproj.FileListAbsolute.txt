@@ -14,3 +14,9 @@ D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.c
 D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\WpfApp1.exe
 D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\Resources\Colors\ColorBrush.baml
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\UI\DialogViews\Login\LoginView.g.cs
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\UI\DialogViews\Login\LoginView.baml
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\UserControls\WindowStateControl.g.cs
+D:\ProjectGit\NEW\ProjectGit\WpfApp1\obj\Debug\UserControls\WindowStateControl.baml

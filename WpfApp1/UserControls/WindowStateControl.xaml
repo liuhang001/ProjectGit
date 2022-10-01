@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="MainApp.UserControls.WindowStateControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MainApp.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="100">
+    <Grid>
+        <DockPanel LastChildFill="False" >
+            <Button x:Name="CloseBtn" Click="CloseBtn_Click" Content="×" Width="20" Height="20" Margin="5" DockPanel.Dock="Right"/>
+            <Button x:Name="MaxBtn" Click="MaxBtn_Click" Content="□" Width="20" Height="20" Margin="5" DockPanel.Dock="Right"/>
+            <Button x:Name="MinBtn" Click="MinBtn_Click" Content="-" Width="20" Height="20" Margin="5" DockPanel.Dock="Right"/>
+        </DockPanel>
+    </Grid>
+</UserControl>
